@@ -1,4 +1,4 @@
-# My transliteration program
+# My transliteration program from English to Russian
 
 # How to install
 Python version required: 3.7+
